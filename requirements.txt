@@ -1,0 +1,8 @@
+﻿networkx>=3.2
+pyvis>=0.3.2
+streamlit>=1.36
+pandas>=2.0      # used by st.dataframe
+numpy>=1.26      # deterministic graph layout (networkx spring_layout)
+
+# development / tests
+pytest>=8.0
